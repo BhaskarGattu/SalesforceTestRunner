@@ -2,7 +2,6 @@ import com.sforce.soap.apex.*;
 import com.sforce.soap.enterprise.EnterpriseConnection;
 import com.sforce.ws.ConnectionException;
 import com.sforce.ws.ConnectorConfig;
-
 /**
  * Created by IntelliJ IDEA.
  * User: sherod
@@ -12,6 +11,7 @@ import com.sforce.ws.ConnectorConfig;
  * akjd
  * 
  */
+
 public class Main {
     
     public static final String USERNAME = "";
